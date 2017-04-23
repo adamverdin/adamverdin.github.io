@@ -1,12 +1,12 @@
 ---
 layout: default
-modal-id: 1
-date: 2014-07-18
-img: cabin.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+modal-id: i-Learn
+date: 2016-07-18
+img: i-learn.png
+alt: i-learn
+project-date: 2016-07-18
+client: Proprietary		
 category: Web Development
-description: Use this area of the page to describe your project. The icon above is part of a free icon set by <a href="https://sellfy.com/p/8Q9P/jV3VZ/">Flat Icons</a>. On their website, you can download their free set with 16 icons, or you can purchase the entire set with 146 icons for only $12!
+description: i-Learn is a learning technology designed to deliver training content through a Healthcare Training Software.  By leverage APIs and working with another software development team we were able to stand up a platform that did not require users to go to a Learning Management System.  Instead they could click on a button and launch the application.  My contributions in the project were UI/UX design, API development, and as Product owner.
 
 ---
