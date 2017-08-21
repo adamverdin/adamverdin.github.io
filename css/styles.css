@@ -3,6 +3,10 @@
     width: 100%;
 }
 
+button.close {
+    font-size: 18px !important;
+}
+
 .image img {
     width: 100%;
 }
@@ -52,4 +56,8 @@
 .image:hover:before {
     opacity: 1;
     cursor: hand;
+}
+
+h1 {
+    text-align: center;
 }
