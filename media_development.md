@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Media Development
-permalink: "{{ site.baseurl }}/pages/media_development"
+permalink: "/pages/media_development.html"
 ---
 {::nomarkdown}  
 1/index.html
