@@ -1,15 +1,7 @@
 {% include head.html %}
-
-<body>
-
-    {% include nav.html %}
-
-    <article class="page">
-
-        <h1>{{ page.title }}</h1>
-
-        <div class="entry">
-            {{ content }}
+{% include nav.html %}        
+        <div class="container text-center">
+            <iframe width="800px" height="600px" src="{{ site.baseurl }}/content/{{ content }} "></iframe>
         </div>
-    </article>
-    {% include footer.html %}
+       
+{% include footer.html %}
