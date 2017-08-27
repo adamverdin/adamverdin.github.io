@@ -1,17 +1,16 @@
----
-layout: default
----
+{% include head.html %}
 
-<article class="post">
-  <h1>{{ page.title }}</h1>
+<body>
 
-  <div class="entry">
-    {{ content }}
-  </div>
+    {% include nav.html %} {{ page.title }}
 
-  <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
-  </div>
+    <div class="container">
 
-  {% include disqus.html %}
-</article>
+
+
+        {{ content }}
+
+    </div>
+
+
+    {% include footer.html %}
