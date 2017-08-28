@@ -4,6 +4,6 @@ title: Mobile Development
 permalink: "/pages/mobile_development"
 ---
 {::nomarkdown}  
-1/index.html
+mobile_development/index.html
 {:/}  
 

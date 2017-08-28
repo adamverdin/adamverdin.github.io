@@ -4,6 +4,6 @@ title: Prototyping
 permalink: "/pages/prototyping"
 ---
 {::nomarkdown}  
-1/index.html
+prototyping/index.html
 {:/}  
 

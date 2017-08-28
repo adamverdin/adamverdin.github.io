@@ -4,6 +4,6 @@ title: Scorm Programming
 permalink: "/pages/scorm_programming"
 ---
 {::nomarkdown}  
-1/index.html
+scorm_programming/index.html
 {:/}  
 
