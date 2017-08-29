@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page_text
 title: Scorm Programming
 permalink: "/pages/scorm_programming"
 ---

@@ -1,35 +1,35 @@
 - title: Media Development
-  thumbnail: 1.png
+  thumbnail: media_development.png
   url: /pages/media_development.html
 
 - title: Web Development
-  thumbnail: 1.png
+  thumbnail: web_development.png
   url: /pages/web_development.html
 
 - title: Software Training
-  thumbnail: 1.png
+  thumbnail: software_training.png
   url: /pages/software_training.html
 
 - title: Performance Support
-  thumbnail: 1.png
+  thumbnail: performance_support.png
   url: /pages/performance_support.html
 
 - title: Prototyping
-  thumbnail: 1.png
+  thumbnail: prototyping.png
   url: /pages/prototyping.html
 
 - title: Mobile Development
-  thumbnail: 1.png
+  thumbnail: prototyping.png
   url: /pages/mobile_development.html 
 
 - title: Instructor Guides
-  thumbnail: 1.png
+  thumbnail: instructor_guide.png
   url: /pages/instructor_guides.html
 
 - title: SCORM Programming
-  thumbnail: 1.png
+  thumbnail: scorm_programming.png
   url: /pages/scorm_programming.html
 
 - title: Curriculum Planning
-  thumbnail: 1.png
+  thumbnail: curriculum_planning.png
   url: /pages/curriculum_planning.html

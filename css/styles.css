@@ -3,6 +3,11 @@
     width: 100%;
 }
 
+.top-buffer { 
+    margin-top:2rem;
+    padding-top: 10px; }
+
+
 button.close {
     font-size: 18px !important;
 }
