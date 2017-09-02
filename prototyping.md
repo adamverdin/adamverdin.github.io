@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Prototyping
-permalink: "/pages/prototyping"
+title: usability_testing
+permalink: "/pages/usability_testing"
 ---
 {::nomarkdown}  
-prototyping/index.html
+usability_testing/index.html
 {:/}  
 

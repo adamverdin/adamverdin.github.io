@@ -14,12 +14,12 @@
   thumbnail: performance_support.png
   url: /pages/performance_support.html
 
-- title: Prototyping
-  thumbnail: prototyping.png
-  url: /pages/prototyping.html
+- title: Usability Testing
+  thumbnail: usability_testing.png
+  url: /pages/usability_testing.html
 
 - title: Mobile Development
-  thumbnail: prototyping.png
+  thumbnail: mobile_development.png
   url: /pages/mobile_development.html 
 
 - title: Instructor Guides
