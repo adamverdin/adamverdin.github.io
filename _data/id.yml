@@ -1,0 +1,11 @@
+- title: Curriclum Plan
+  url: /pages/media_development.html
+  description: This is an example of a Curriculum Plan
+
+- title: Instructional Guide
+  url: /pages/media_development.html
+  description: This is an example of an Instructional Guide
+
+- title: Software Training
+  thumbnail: software_training.png
+  url: /pages/software_training.html
