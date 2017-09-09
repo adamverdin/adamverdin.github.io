@@ -1,38 +1,6 @@
 {% include head.html %} {% include nav.html %}
 
 <div class="container">
-<<<<<<< HEAD
-    <div class="container">
-        <div class="row ">
-            {% for services in site.data.services %}
-
-            <div class="col-lg-4 col-sm-12 col-md-12 col-xl-4">
-                <a href="{{site.baseurl}}{{data.url}}">
-                    <p>"{{id.title}}"</p>
-                    <p>"{{id.description}}"</p>
-                    <img src="content/instructional_design/{{data.}}" class="img-responsive " alt="Image">
-            </div>
-            </a>
-        </div>
-        <div class="col-lg-8 col-sm-12 col-md-12 col-xl-8">
-            <a href="{{site.baseurl}}{{data.url}}">
-                <div data-content="{{services.title}}" class="image top-buffer">
-                    <img src="content/instructional_design/{{data.}}" class="img-responsive " alt="Image">
-                </div>
-            </a>
-        </div>
-
-        {%endfor%}
-    </div>
-</div>
-
-
-{% endif %} {% endfor %}
-
-</div>
-
-
-=======
     {% for id in site.data.id %}
     <div class="row ">
         <div class="col-lg-8 col-sm-12 col-md-8 col-xl-8">
@@ -46,5 +14,4 @@
     <br> {%endfor%}
 </div>
 
->>>>>>> phase2
 {% include footer.html %}
