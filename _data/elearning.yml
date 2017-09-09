@@ -1,0 +1,9 @@
+- title: Software Training
+  technology: Adobe Captivate 9, Adobe PhotoShop, Adobe Illustrator, IBM Kenexa LCMS
+  description: This training module was developed along side of many others that target roles within a clinical organization.  By using a modulare development strategy I was able to reuse content to fulfill an Instructional Design Plan following a software release of an EHR Product.  To complete the analysis I met regularly with the Product Development team to identify new features and workflows.
+  url: /content/elearning/software_training/
+
+- title: Performance Support
+  technology: Adobe Captivate 9, Adobe Animate, Adobe PhotoShop, Adobe Illustrator, IBM Kenexa LCMS
+  description: This training was developed in partnership with a product support group.  By partnerting with support professionals I was able to identify where customers were struggling in using the product.  This training was offered up through the product via a custom designed learning portal.  By utilizing a platform such as this I was able to quickly deploy short, on-demand training materials within a short time span.
+  url: /content/elearning/performance_support/

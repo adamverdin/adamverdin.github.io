@@ -1,6 +1,6 @@
-- title: Media Development
-  thumbnail: media_development.png
-  url: /pages/media_development.html
+- title: eLearning
+  thumbnail: software_training.png
+  url: /pages/elearning.html
 
 - title: Web Development
   thumbnail: web_development.png
@@ -10,14 +10,6 @@
   thumbnail: curriculum_planning.png
   url: /pages/instructional_design.html
 
-- title: Software Training
-  thumbnail: software_training.png
-  url: /pages/software_training.html
-
-- title: Performance Support
-  thumbnail: performance_support.png
-  url: /pages/performance_support.html
-
 - title: Usability Testing
   thumbnail: usability_testing.png
   url: /pages/usability_testing.html
@@ -26,10 +18,18 @@
   thumbnail: mobile_development.png
   url: /pages/mobile_development.html 
 
-- title: SCORM Programming
-  thumbnail: scorm_programming.png
-  url: /pages/scorm_programming.html
-
 - title: System Administration
-  thumbnail: media_development.png
+  thumbnail: system_administration.png
   url: /pages/system_administration.html
+
+- title: Technical Writing
+  thumbnail: scorm_programming.png
+  url: /pages/technical_writing.html
+
+- title: Information Architecture
+  thumbnail: information_architecture.png
+  url: /pages/information_architecture.html
+
+- title: Media Development
+  thumbnail: media_development.png
+  url: /pages/media_development.html

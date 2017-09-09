@@ -1,0 +1,7 @@
+- title: API Documentation
+  description: This document was created for software developers whom would consume our REST APIs.  I worked with at team of remote developers to write the APIs and then drafted this document as a deliverable for software developers.  The API consumers in this case were internal software development teams whom wished to furhter integrate our proprietary training development platform into their existing software platform.
+  url: /content/technical_writing/ilearn_api
+
+- title: SCORM Programming
+  description: After developing storyline 2 content for an education program in the United Kingdom, an instructional design team ran into a problem where their content was too large for a SCORM 1.2 format.  The Saba LMS used to deliver the training only supported SCORM 1.2.  After being assigned to this project I asked the content creaters to publish the content into SCORM 2004, a format that supported their large data requirements.  I then modified javascript, specifically the LMS API functionality.  This document was turned over to instructional designers and other developers to faciliate the deployment of eLearning on schedule, saving the company a significant amount of money.
+  url: /content/technical_writing/scorm/
