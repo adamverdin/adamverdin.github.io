@@ -10,14 +10,6 @@
   thumbnail: curriculum_planning.png
   url: /pages/instructional_design.html
 
-- title: Usability Testing
-  thumbnail: usability_testing.png
-  url: /pages/usability_testing.html
-
-- title: Mobile Development
-  thumbnail: mobile_development.png
-  url: /pages/mobile_development.html 
-
 - title: System Administration
   thumbnail: system_administration.png
   url: /pages/system_administration.html
@@ -30,6 +22,14 @@
   thumbnail: information_architecture.png
   url: /pages/information_architecture.html
 
+- title: Usability Testing
+  thumbnail: usability_testing.png
+  url: /pages/usability_testing.html
+
 - title: Media Development
   thumbnail: media_development.png
   url: /pages/media_development.html
+
+- title: Mobile Development
+  thumbnail: mobile_development.png
+  url: /pages/mobile_development.html 
