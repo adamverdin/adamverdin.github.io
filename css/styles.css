@@ -1,12 +1,16 @@
+body {
+    padding-top: 8rem;
+}
+
 .image {
     position: relative;
     width: 100%;
 }
 
-.top-buffer { 
-    margin-top:2rem;
-    padding-top: 10px; }
-
+.top-buffer {
+    margin-top: 2rem;
+    padding-top: 10px;
+}
 
 button.close {
     font-size: 18px !important;
@@ -73,3 +77,6 @@ h1 {
     text-align: center;
 }
 
+.p {
+    font-size: 3em;
+}

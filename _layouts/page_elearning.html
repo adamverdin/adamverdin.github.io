@@ -1,0 +1,18 @@
+{% include head.html %} {% include nav.html %}
+
+<div class="container">
+    {% for elearning in site.data.elearning %}
+    <div class="row ">
+        <div class="col-lg-8 col-sm-12 col-md-8 col-xl-8">
+            <iframe height="550px" width="100%" src="{{site.baseurl}}{{elearning.url}}"></iframe>
+        </div>
+        <div class="col-xs-4 col-sm-12 col-md-4 col-lg-4">
+            <h2>{{elearning.title}}</h2>
+            <p>Technology Used: {{elearning.technology}}</p>
+            <p>{{elearning.description}}</p>
+        </div>
+    </div>
+    <br> {%endfor%}
+</div>
+
+{% include footer.html %}

@@ -1,0 +1,18 @@
+{% include head.html %} {% include nav.html %}
+
+<div class="container">
+    {% for systems in site.data.systems %}
+    <div class="row ">
+        <div class="col-lg-3 col-sm-12 col-md-2 col-xl-3">
+            <img src="{{site.baseurl}}{{systems.url}}" class="img-responsive" alt="Image">
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-10 col-lg-9 col-xl-9">
+            <h2>{{systems.title}}</h2>
+            <p>Years of experience: {{systems.experience}}</p>
+            <p>{{systems.description}}</p>
+        </div>
+
+    </div>
+    <br> {%endfor%}
+</div>
+{% include footer.html %}
