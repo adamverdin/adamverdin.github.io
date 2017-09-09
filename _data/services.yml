@@ -6,6 +6,10 @@
   thumbnail: web_development.png
   url: /pages/web_development.html
 
+- title: Instructional Design
+  thumbnail: curriculum_planning.png
+  url: /pages/instructional_design.html
+
 - title: Software Training
   thumbnail: software_training.png
   url: /pages/software_training.html
@@ -22,14 +26,10 @@
   thumbnail: mobile_development.png
   url: /pages/mobile_development.html 
 
-- title: Instructor Guides
-  thumbnail: instructor_guide.png
-  url: /pages/instructor_guides.html
-
 - title: SCORM Programming
   thumbnail: scorm_programming.png
   url: /pages/scorm_programming.html
 
-- title: Curriculum Planning
-  thumbnail: curriculum_planning.png
-  url: /pages/curriculum_planning.html
+- title: System Administration
+  thumbnail: media_development.png
+  url: /pages/system_administration.html

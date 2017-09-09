@@ -1,0 +1,27 @@
+- title: Windows Sever 2008
+  experience: 1.5 years work related
+  description: After starting work with a healthcare technology company I was given an administrator's role of a Windows 2007 server.  During my time I migrated several web domains to SSL as well as writing a script to pull server performance logs via PowerShell.
+  url: /content/system_administration/windows.png
+
+- title: Linux Ubuntu
+  experience: 3 years work related
+  description: While working as an independent web developer I developed websites for small businesses.  In all cases I utilized a Linux web server with SSH access.  The most challenging and rewarding project I've done on a Linux server was deploying a bamboo server to an AWS VM running ubuntu.  The purpose of this was to create an environment that I could create POCs and quickly deploy them via Git.
+  url: /content/system_administration/linux.png
+
+- title: Saba LMS 
+  experience: 1 year work related
+  description: While managing a Saba 7.2 LMS I created program and course builds for Instructional designers located in India, United Kingdom, and the United States.  I serviced a que for customers to troubleshoot LMS issues.  During one case of troubleshooting I programmed a reusable Scorm wrapper for a group of Instructional Designers to deploy Scorm 2004 content onto a Saba LMS that did not offically support the standard.
+  url: /content/system_administration/Saba.png
+
+- title: IBM Kenexa LCMS 
+  experience: 1 year work related
+  description: During my administration role for IBM's Learning Content Management System I developed branded HTML templates for eLearning content.  One of the biggest projects I worked on was engineering a mobile responsive HTML/CSS template to update the organization's catalog into modern mobile and iPad ready eLearning.
+  url: /content/system_administration/lcms.png
+
+- title: SharePoint
+  experience: 1 year work related
+  description: While administrating a SharePoint site I assisted a leadership team with white-boarding a content strategy.  I put this content strategy into action and completed a complete SharePoint reorganization for the business unit.  In addition I provided troubleshooting, as well as authoring numerous infopath forms to support business process.
+  url: /content/system_administration/sharepoint.png
+
+
+
