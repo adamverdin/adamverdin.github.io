@@ -5,5 +5,4 @@ permalink: "/pages/web_Development"
 ---
 {::nomarkdown}  
 web_development/index.html
-{:/}  
-
+{:/}
