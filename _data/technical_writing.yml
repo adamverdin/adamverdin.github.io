@@ -1,5 +1,5 @@
 - title: API Documentation
-  description: This document was created for software developers whom would consume our REST APIs.  I worked with at team of remote developers to write the APIs and then drafted this document as a deliverable for software developers.  The API consumers in this case were internal software development teams whom wished to furhter integrate our proprietary training development platform into their existing software platform.
+  description: This document was created for internal software developers whom would consume our REST APIs in their applications.  I worked with a team of remote developers to write the APIs and then drafted this document as a deliverable for software developers.  The API consumers in this case were internal software development teams whom wished to furhter integrate our proprietary training development platform into their existing software platform.
   url: /content/technical_writing/ilearn_api
 
 - title: SCORM Programming
