@@ -1,20 +1,20 @@
 - title: Survey Application
-  technology: HTML/CSS, Bootstrap, Javascript, jQuery, D3, PHP, MySQL, 
+  technology: HTML/CSS, Bootstrap, Javascript, jQuery, D3, PHP, MySQL, GIT, Azure, VSTS
   description: This application was created to assist sales and consulting teams with presenting quantitatve data to leaders in the Healthcare industry.  The application faciliates a survey throughout the consulting process and then presents data visualizations for customers to identify where processes and workflows in their organization could benefit from training.  The application served several benfits to the business, including automating parts of the consulting process as well as improving overall sales.
   url: /content/web_development/training_assessment.png
 
 - title: Online Catalog
-  technology: HTML/CSS, Bootstrap, Javascript, Kendo, jQuery, PHP, MySQL
+  technology: HTML/CSS, Bootstrap, Javascript, Kendo, jQuery, PHP, MySQL, GIT
   description: This application was developed to transition a catalog into an online format.  Development started with customer interviews, the creation of user personas, and whiteboarding the information structure.  The application would go onto to be used by additional business groups in the company because of its ease of use and dynamic content management system.
   url: /content/web_development/catalog.png
 
 - title: Learning Portal
-  technology: HTML/CSS, Bootstrap, Javascript, jQuery, PHP, Code Igniter MVC, MySQL, xAPI
+  technology: HTML/CSS, Bootstrap, Javascript, jQuery, PHP, Code Igniter MVC, MySQL, xAPI, GIT
   description: After identifying a need to get training to the customer in a short time span a project was started to develop a learning portal that would deliver performance support training directly through the software product.  I joined the organization after the project had already started and assisted the development team with developing the APIs, MVC Controllers, and making the UI mobile responsive with BootStrap.  In the conclusion of the project I developed a reporting feature within the applciation that utilizes xAPI and the Learning Locker LRS.
   url: /content/web_development/ilearn.png
 
 - title: Enrollment Portal
-  technology: HTML/CSS, Bootstrap, Javascript, jQuery, PHP, Code Igniter MVC, MySQL
+  technology: HTML/CSS, Bootstrap, Javascript, jQuery, PHP, Code Igniter MVC, MySQL, GIT, Azure, VSTS
   description: Due to complaints by customers that they struggled to enroll their learners in eLearning programs it was decided to create an application to help facilitate the process.   I worked with a remote team of developers to deploy this application within two and a half months.  My work with the application pertained UI engineering with bootstrap as well as interaction development with jQuery.  The application has received praise from customer who prefer its user experince over the one offered by our LMS vendor.
   url: /content/web_development/enrollment.png
 
