@@ -65,6 +65,7 @@ button.close {
 .image:hover:before {
     opacity: 1;
     cursor: hand;
+    font-size: 150%;
 }
 
 h1 {
@@ -93,9 +94,11 @@ h1 {
     
 }
 @media(min-width:992px){
-    p {font-size: 12px;}  
+    p {font-size: 12px;
+        line-height: 20px;}  
 }
 @media(min-width:1200px){
-    p {font-size: 12px;}  
+    p {font-size: 12px;
+        line-height: 20px;}  
     .image:before {font-size: 18px}  
 }

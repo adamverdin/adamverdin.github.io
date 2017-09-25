@@ -16,6 +16,7 @@ html {
 }
 body {
   margin: 0;
+  /* this line is for the margin */
 }
 article,
 aside,
