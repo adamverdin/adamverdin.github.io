@@ -5,7 +5,7 @@
 
 - title: Online Catalog
   technology: HTML/CSS, Bootstrap, Javascript, Kendo, jQuery, PHP, MySQL, GIT
-  description: This application was developed to transition a catalog into an online format.  Development started with customer interviews, the creation of user personas, and whiteboarding the information structure.  The application would go onto tobe used by additional business groups in the company because of its ease of use and dynamic content management system.
+  description: This application was developed to transition a catalog into an online format.  Development started with customer interviews, the creation of user personas, and whiteboarding the information structure.  The application would go on to be used by additional business groups in the company because of its ease of use and dynamic content management system.
   url: /content/web_development/catalog.png
 
 - title: Learning Portal
