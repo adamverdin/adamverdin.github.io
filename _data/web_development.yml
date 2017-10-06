@@ -15,7 +15,7 @@
 
 - title: Enrollment Portal
   technology: HTML/CSS, Bootstrap, Javascript, jQuery, PHP, Code Igniter MVC, MySQL, GIT, Azure, VSTS
-  description: Due to complaints by customers that they struggled to enroll their learners in eLearning programs it was decided to create an application to help facilitate the process.   I worked with a remote team of developers to deploy this application within two and a half months.  My work with the application pertained UI engineering with bootstrap as well as interaction development with jQuery.  The application has received praise from customer who prefer its user experince over the one offered by our LMS vendor.
+  description: Due to complaints by customers that struggled to enroll their learners in eLearning programs it was decided to create an application to help facilitate the process.   I worked with a remote team of developers to deploy this application within two and a half months.  My work with the application pertained UI engineering with bootstrap as well as interaction development with jQuery.  The application has received praise from customer who prefer its user experince over the one offered by our LMS vendor.
   url: /content/web_development/enrollment.png
 
 - title: Product Website
