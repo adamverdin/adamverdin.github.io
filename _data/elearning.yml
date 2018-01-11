@@ -3,7 +3,22 @@
   description: This training module was developed along side of many others that target roles within a clinical organization.  By using a modulare development strategy I was able to reuse content to fulfill an Instructional Design Plan following a software release of an EHR Product.  To complete the analysis I met regularly with a Product Development team to identify new features and workflows.
   url: /content/elearning/software_training/
 
+- title: Conceptual Training
+  technology: Adobe Animate, Articulate Storyline 360
+  description: The media here was developed to communicate conceptual information concerning a Healthcare product.  Several animations were developed for this project and later combined into a larger Storyline powered eLearning course.  Before I came into eLearning I worked in multimedia and the skills I learned there have proven to be incredibly useful, allowing me to compliment any team.
+  url: /content/elearning/conceptual_training/
+
 - title: Performance Support
   technology: Adobe Captivate 9, Adobe Animate, Adobe PhotoShop, Adobe Illustrator, IBM Kenexa LCMS
   description: This training was developed in partnership with a product support group.  By partnerting with support professionals I was able to identify where customers were struggling in using the product.  This training was offered up through the product via a custom designed learning portal.  By utilizing a platform such as this I was able to quickly deploy short, on-demand training materials within a short time span.
   url: /content/elearning/performance_support/
+
+- title: Sales Training
+  technology: Adobe Premiere, Adobe After Effects
+  description: Creating training for sales teams can often be a challenging process because of a limited time schedule these professionals often have.  To help create training that would be ideal for Sales professionals I developed short training that could then be broken into several smaller MircoLearning sessions.  In this video I have a five minute recording that was created in cooperation with several product SMEs.  Finally, the training was segmented into shorter 1 minute videos to serve a mobile learning strategy.
+  url: /content/elearning/sales_training/
+
+- title: Training & Assessments
+  technology: Articulate Storyline
+  description: Following a business expansion to foriegn markets I came on board to sunset a project in the United Kingdom.  The existing eLearning required instructor-led training workshops and the business goal was to eliminate any trainer requirements while facilitating the entire training through an eLearning medium.  I revisited the eLearning with the product SMEs and included several more simulations with Storyline to meet requirements on schedule.
+  url: /content/elearning/software_training_2/
