@@ -10,7 +10,7 @@
 
 - title: Learning Portal
   technology: HTML/CSS, Bootstrap, Javascript, jQuery, PHP, Code Igniter MVC, MySQL, xAPI, GIT
-  description: After identifying a need to get training to the customer in a short time span a project was started to develop a learning portal that would deliver performance support training directly through the software product.  I joined the organization after the project had already started and assisted the development team with developing the APIs, MVC Controllers, and making the UI mobile responsive with BootStrap.  In the conclusion of the project I developed a reporting feature within the applciation that utilizes xAPI and the Learning Locker LRS.
+  description: After identifying a need to get training to the customer in a short time span a project was started to develop a learning portal that would deliver performance support training directly through the software product.  I joined the organization after the project had already started and assisted the development team with developing the APIs, MVC Controllers, and making the UI mobile responsive with BootStrap.  In the conclusion of the project I developed a reporting feature within the application that utilizes xAPI and the Learning Locker LRS.
   url: /content/web_development/ilearn.png
 
 - title: Enrollment Portal

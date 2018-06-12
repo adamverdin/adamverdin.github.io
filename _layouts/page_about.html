@@ -1,37 +1,25 @@
-<!-- {% include head.html %} {% include nav.html %}
-
-<div class="container">
-    {% for web_development in site.data.web_development %}
-    <div class="row ">
-        <div class="col-lg-9 col-sm-12 col-md-8 col-xl-9">
-            <img src="{{site.baseurl}}{{web_development.url}}" class="top-buffer shadow img-responsive" alt="Image">
-        </div>
-        <div class="col-xs-12 col-sm-12 col-md-4 col-lg-3 col-xl-3">
-            <h2>{{web_development.title}}</h2>
-            <p>Technology: {{web_development.technology}}</p>
-            <p>{{web_development.description}}</p>
-        </div>
-
-    </div>
-    <br> {%endfor%}
-</div>
-{% include footer.html %}
-
 {% include head.html %} {% include nav.html %}
 
-<div class="container">
-    {% for elearning in site.data.elearning %}
-    <div class="row ">
-        <div class="col-lg-8 col-sm-12 col-md-8 col-xl-8">
-            <iframe height="550px" width="100%" src="{{site.baseurl}}{{elearning.url}}"></iframe>
+<div class="container center-block">
+    <div class="row">
+        <div class="col-lg-6 col-sm-12 col-md-6 col-xl-6">
+                <h1>Business and Technology</h1>
         </div>
-        <div class="col-xs-4 col-sm-12 col-md-4 col-lg-4">
-            <h2>{{elearning.title}}</h2>
-            <p>Technology Used: {{elearning.technology}}</p>
-            <p>{{elearning.description}}</p>
+        <div class="col-xs-6 col-sm-6 col-md-1 col-lg-1 col-xl-1 center-block">
+                <img class='img-circle center' src='../img/profile.jpg' />
         </div>
     </div>
-    <br> {%endfor%}
-</div>
+    <div class="row"> 
+        <div class="col-lg-7 col-sm-12 col-md-7 col-xl-7">
+                <p>Hello my name is Adam and I help businesses realize opportunities in the digital space.  I work primarily in the Healthcare and Education industries but welcome opportunities in all fields.  My previous work includes developing educational products and services for Healthcare clients and the public schools.
+                <br>
+                I learned to program as a kid and have used that skill to realize business opportunties, develop products for customers and to automate internal processes.  Education and Training is an area where I developed great communication and presentation skills necessary to administer training programs as well.
+                <br>
+                I hold both Bachelor's and Master's degree in Education and Information systems respectively.  In my free time I'm often practicing with programming new algorithims or running a local meetup that allows me the opportunity to develop as a speaker, and leader.
+                </p>
+        </div>   
+    </div>  
 
-{% include footer.html %} -->
+    <br>
+</div>
+{% include footer.html %}
