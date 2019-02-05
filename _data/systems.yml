@@ -13,12 +13,12 @@
   description: While managing a Saba 7.2 LMS I created program and course builds for Instructional designers located in India, United Kingdom, and the United States.  I serviced a que for customers to troubleshoot LMS issues.  During one case of troubleshooting I programmed a reusable Scorm wrapper for a group of Instructional Designers to deploy Scorm 2004 content onto a Saba LMS that did not offically support the standard.
   url: /content/system_administration/Saba.png
 
-  - title: Moodle LMS
+- title: Moodle LMS
   experience: 3 years work related
   description: I have developed, administered, and launched Moodle LMS platforms for K-12 and Higher Education clients.  While working with various Moodle plugins and configurations I have partnered with developers to troubleshoot bugs and develop new features to align w/ customer expectations.  Most recently I've provided support to the Higher education market, configuring the Platform according to student and faculty needs for over 10,000 end-users.
   url: /content/system_administration/moodle.png
 
-   - title: SAP SuccessFactors LMS
+- title: SAP SuccessFactors LMS
   experience: 2 years work related
   description: After consulting on an RFP I was brought into assist a client in the Techn industry to implement the SuccessFactors LMS.  The client was already an SAP customer and our implementation focused on the successful integration of the LMS with the other SAP Products. 
   url: /content/system_administration/successfactors.png
